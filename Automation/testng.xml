@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
+      <class name="com.wbl.test.HomePageTest"/>
       <class name="com.wbl.automation.FirstWebDriver"/>
     </classes>
   </test> <!-- Test -->

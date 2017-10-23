@@ -1,0 +1,15 @@
+[INFO ] 2017-10-14 01:08:04.175 [main] BaseTest - rs test case name after method:Headerlinktest
+[INFO ] 2017-10-14 01:08:08.832 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-14 01:08:08.832 [main] ExcelHelper - total cols:2
+[INFO ] 2017-10-14 01:08:08.838 [main] ExcelHelper - total cols:2
+[INFO ] 2017-10-14 01:08:17.632 [main] BaseTest - rs test case name after method:Searchtabtest
+[INFO ] 2017-10-14 01:08:24.960 [main] BaseTest - rs test case name after method:Searchtabtest
+[INFO ] 2017-10-14 01:08:32.367 [main] BaseTest - rs test case name after method:footerlinkstest
+[INFO ] 2017-10-14 01:24:18.387 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-14 01:24:18.403 [main] ExcelHelper - total cols:6
+[INFO ] 2017-10-14 01:27:15.861 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-14 01:27:15.861 [main] ExcelHelper - total cols:6
+[INFO ] 2017-10-14 01:29:18.397 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-14 01:29:18.397 [main] ExcelHelper - total cols:6
+[INFO ] 2017-10-14 01:33:16.394 [main] WebDriverUtils - In get driver method - browser:Chrome
+[INFO ] 2017-10-14 01:33:27.087 [main] BaseTest - rs test case name after method:footerlinkstest

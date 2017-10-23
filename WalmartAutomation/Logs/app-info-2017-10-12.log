@@ -1,0 +1,33 @@
+[INFO ] 2017-10-12 21:19:48.519 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-12 21:19:48.597 [main] WebDriverUtils - In get driver method: Chrome
+[INFO ] 2017-10-12 21:20:05.713 [main] WebDriverUtils - In get driver method: Chrome
+[INFO ] 2017-10-12 21:25:42.532 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-12 21:25:42.532 [main] ExcelHelper - total cols:2
+[INFO ] 2017-10-12 21:25:42.548 [main] ExcelHelper - total cols:2
+[INFO ] 2017-10-12 21:25:42.610 [main] WebDriverUtils - In get driver method: Chrome
+[INFO ] 2017-10-12 21:25:59.856 [main] WebDriverUtils - In get driver method: Chrome
+[INFO ] 2017-10-12 23:10:37.598 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-12 23:10:37.601 [main] ExcelHelper - total cols:2
+[INFO ] 2017-10-12 23:10:37.606 [main] ExcelHelper - total cols:2
+[INFO ] 2017-10-12 23:10:37.706 [main] WebDriverUtils - In get driver method - browser:Chrome
+[ERROR] 2017-10-12 23:10:37.706 [main] WebDriverUtils - There is an exception when creating webdriver object
+[ERROR] 2017-10-12 23:10:37.706 [main] WebDriverUtils - [Ljava.lang.StackTraceElement;@78d6692f
+[INFO ] 2017-10-12 23:10:37.753 [main] WebDriverUtils - In get driver method - browser:Chrome
+[ERROR] 2017-10-12 23:10:37.753 [main] WebDriverUtils - There is an exception when creating webdriver object
+[ERROR] 2017-10-12 23:10:37.768 [main] WebDriverUtils - [Ljava.lang.StackTraceElement;@1fc32e4f
+[INFO ] 2017-10-12 23:27:07.445 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-12 23:27:07.445 [main] ExcelHelper - total cols:2
+[INFO ] 2017-10-12 23:27:07.445 [main] ExcelHelper - total cols:2
+[DEBUG] 2017-10-12 23:27:07.539 [main] WebDriverUtils - debug *********:Chrome
+[ERROR] 2017-10-12 23:27:07.539 [main] WebDriverUtils - There is an exception when creating webdriver object
+[ERROR] 2017-10-12 23:27:07.539 [main] WebDriverUtils - [Ljava.lang.StackTraceElement;@5c2375a9
+[DEBUG] 2017-10-12 23:27:07.555 [main] WebDriverUtils - debug *********:Chrome
+[ERROR] 2017-10-12 23:27:07.555 [main] WebDriverUtils - There is an exception when creating webdriver object
+[ERROR] 2017-10-12 23:27:07.555 [main] WebDriverUtils - [Ljava.lang.StackTraceElement;@146dfe6
+[INFO ] 2017-10-12 23:27:47.106 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-12 23:27:47.106 [main] ExcelHelper - total cols:2
+[INFO ] 2017-10-12 23:27:47.106 [main] ExcelHelper - total cols:2
+[ERROR] 2017-10-12 23:27:47.169 [main] WebDriverUtils - There is an exception when creating webdriver object
+[ERROR] 2017-10-12 23:27:47.169 [main] WebDriverUtils - [Ljava.lang.StackTraceElement;@78d6692f
+[ERROR] 2017-10-12 23:27:47.200 [main] WebDriverUtils - There is an exception when creating webdriver object
+[ERROR] 2017-10-12 23:27:47.200 [main] WebDriverUtils - [Ljava.lang.StackTraceElement;@1fc32e4f

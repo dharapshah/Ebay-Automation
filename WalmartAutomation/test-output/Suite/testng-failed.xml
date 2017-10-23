@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.wbl.utilities.LoggerListener"/>
+  </listeners>
+  <test name="SmokeTest(failed)">
+    <groups>
+      <run>
+        <include name="Smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.wbl.HomePageTest">
+        <methods>
+          <include name="beforesuit"/>
+          <include name="aftermethod"/>
+          <include name="beforemethod"/>
+          <include name="Headerlinktest"/>
+        </methods>
+      </class> <!-- com.wbl.HomePageTest -->
+      <class name="com.wbl.SearchResultPageTest">
+        <methods>
+          <include name="ClickSearchResult"/>
+          <include name="aftermethod"/>
+          <include name="beforemethod"/>
+        </methods>
+      </class> <!-- com.wbl.SearchResultPageTest -->
+    </classes>
+  </test> <!-- SmokeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

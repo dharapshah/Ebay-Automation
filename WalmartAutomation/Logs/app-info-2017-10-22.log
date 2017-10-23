@@ -1,0 +1,71 @@
+[INFO ] 2017-10-22 23:12:45.687 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-22 23:12:45.710 [main] ExcelHelper - total cols:6
+[INFO ] 2017-10-22 23:29:24.795 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-22 23:29:24.795 [main] ExcelHelper - total cols:6
+[INFO ] 2017-10-22 23:36:34.290 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-22 23:36:34.290 [main] ExcelHelper - total cols:6
+[INFO ] 2017-10-22 23:39:20.250 [main] ExcelHelper - SHeet NameSheet2
+[INFO ] 2017-10-22 23:39:20.250 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-22 23:39:20.250 [main] ExcelHelper - total cols:6
+[INFO ] 2017-10-22 23:47:31.335 [main] ExcelHelper - Sheet Name:Sheet2
+[INFO ] 2017-10-22 23:47:31.335 [main] ExcelHelper - total rows:2
+[INFO ] 2017-10-22 23:47:31.335 [main] ExcelHelper - total cols:6
+[INFO ] 2017-10-22 23:47:31.335 [main] ExcelHelper - Datalaptop
+[INFO ] 2017-10-22 23:47:31.335 [main] ExcelHelper - Datalaptop | eBay
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - Sheet Name:Sheet2
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - total rows:3
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - total cols:3
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - Datadharapshah@gmail.com
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - Datadhara12345
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - DataFAIL
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - total cols:3
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - Datajack897@yahoo.com
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - Data6866jbnbbkj
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - DataFAIL
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - total cols:3
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - Datapranavindia2007@gmail.com
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - Datavadnagar@123
+[INFO ] 2017-10-22 23:49:05.274 [main] ExcelHelper - DataPASS
+[INFO ] 2017-10-22 23:49:05.524 [main] WebDriverUtils - In get driver method - browser:Chrome
+[INFO ] 2017-10-22 23:49:15.067 [main] BaseTest - rs test case name after method:LoginPageTesttest
+[INFO ] 2017-10-22 23:49:20.713 [main] WebDriverUtils - In get driver method - browser:Chrome
+[INFO ] 2017-10-22 23:49:27.761 [main] BaseTest - rs test case name after method:LoginPageTesttest
+[INFO ] 2017-10-22 23:49:31.982 [main] WebDriverUtils - In get driver method - browser:Chrome
+[INFO ] 2017-10-22 23:49:38.583 [main] BaseTest - rs test case name after method:LoginPageTesttest
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - Sheet Name:Sheet2
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - total rows:3
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - total cols:3
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - Datadharapshah@gmail.com
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - Datadhara12345
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - DataFAIL
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - total cols:3
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - Datajack897@yahoo.com
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - Data6866jbnbbkj
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - DataFAIL
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - total cols:3
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - Datapranavindia2007@gmail.com
+[INFO ] 2017-10-22 23:52:24.316 [main] ExcelHelper - Datavadnagar@123
+[INFO ] 2017-10-22 23:52:24.331 [main] ExcelHelper - DataPASS
+[INFO ] 2017-10-22 23:52:24.394 [main] WebDriverUtils - In get driver method - browser:Chrome
+[INFO ] 2017-10-22 23:52:31.649 [main] BaseTest - rs test case name after method:LoginPageTesttest
+[INFO ] 2017-10-22 23:52:36.004 [main] WebDriverUtils - In get driver method - browser:Chrome
+[INFO ] 2017-10-22 23:52:42.795 [main] BaseTest - rs test case name after method:LoginPageTesttest
+[INFO ] 2017-10-22 23:52:46.094 [main] WebDriverUtils - In get driver method - browser:Chrome
+[INFO ] 2017-10-22 23:52:52.869 [main] BaseTest - rs test case name after method:LoginPageTesttest
+[INFO ] 2017-10-22 23:54:56.571 [main] ExcelHelper - Sheet Name:Sheet2
+[INFO ] 2017-10-22 23:54:56.571 [main] ExcelHelper - total rows:3
+[INFO ] 2017-10-22 23:54:56.571 [main] ExcelHelper - total cols:3
+[INFO ] 2017-10-22 23:54:56.587 [main] ExcelHelper - Datadharapshah@gmail.com
+[INFO ] 2017-10-22 23:54:56.587 [main] ExcelHelper - Datadhara12345
+[INFO ] 2017-10-22 23:54:56.587 [main] ExcelHelper - DataFAIL
+[INFO ] 2017-10-22 23:54:56.587 [main] ExcelHelper - total cols:3
+[INFO ] 2017-10-22 23:54:56.587 [main] ExcelHelper - Datajack897@yahoo.com
+[INFO ] 2017-10-22 23:54:56.587 [main] ExcelHelper - Data6866jbnbbkj
+[INFO ] 2017-10-22 23:54:56.587 [main] ExcelHelper - DataFAIL
+[INFO ] 2017-10-22 23:54:56.587 [main] ExcelHelper - total cols:3
+[INFO ] 2017-10-22 23:54:56.587 [main] ExcelHelper - Datapranavindia2007@gmail.com
+[INFO ] 2017-10-22 23:54:56.587 [main] ExcelHelper - Datavadnagar@123
+[INFO ] 2017-10-22 23:54:56.587 [main] ExcelHelper - DataPASS
+[INFO ] 2017-10-22 23:54:56.681 [main] WebDriverUtils - In get driver method - browser:Chrome
+[INFO ] 2017-10-22 23:55:03.725 [main] WebDriverUtils - In get driver method - browser:Chrome
+[INFO ] 2017-10-22 23:55:11.977 [main] WebDriverUtils - In get driver method - browser:Chrome

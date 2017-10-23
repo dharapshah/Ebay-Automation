@@ -1,0 +1,25 @@
+[ERROR] 2017-10-13 01:10:23.990 [main] WebDriverUtils - There is an exception when creating webdriver object
+[ERROR] 2017-10-13 01:10:24.006 [main] WebDriverUtils - [Ljava.lang.StackTraceElement;@4e7912d8
+[INFO ] 2017-10-13 01:10:24.022 [main] BaseTest - rs test case name after method:footerlinkstest
+[INFO ] 2017-10-13 01:16:21.389 [main] BaseTest - rs test case name after method:footerlinkstest
+[INFO ] 2017-10-13 22:36:52.767 [main] LoggerListener - Test Started....
+[INFO ] 2017-10-13 22:36:52.788 [main] LoggerListener - Test Started....
+[INFO ] 2017-10-13 22:36:55.944 [main] LoggerListener - Test 'Headerlinktest' PASSED
+[INFO ] 2017-10-13 22:36:55.945 [main] LoggerListener - Priority of this method is 0
+[INFO ] 2017-10-13 22:36:55.946 [main] LoggerListener - Test 'Headerlinktest' PASSED
+[INFO ] 2017-10-13 22:36:55.946 [main] LoggerListener - Priority of this method is 0
+[INFO ] 2017-10-13 22:36:55.946 [main] BaseTest - rs test case name after method:Headerlinktest
+[INFO ] 2017-10-13 23:06:35.676 [main] LoggerListener - Test Started....
+[INFO ] 2017-10-13 23:06:35.686 [main] LoggerListener - Test Started....
+[ERROR] 2017-10-13 23:06:40.503 [main] LoggerListener - Test 'Headerlinktest' FAILED
+[ERROR] 2017-10-13 23:06:40.504 [main] LoggerListener - Priority of this method is 0
+[ERROR] 2017-10-13 23:06:40.505 [main] LoggerListener - Test 'Headerlinktest' FAILED
+[ERROR] 2017-10-13 23:06:40.505 [main] LoggerListener - Priority of this method is 0
+[INFO ] 2017-10-13 23:06:40.509 [main] BaseTest - rs test case name after method:Headerlinktest
+[INFO ] 2017-10-13 23:06:48.426 [main] LoggerListener - Test Started....
+[INFO ] 2017-10-13 23:06:48.430 [main] LoggerListener - Test Started....
+[ERROR] 2017-10-13 23:06:58.280 [main] LoggerListener - Test 'ClickSearchResult' FAILED
+[ERROR] 2017-10-13 23:06:58.280 [main] LoggerListener - Priority of this method is 0
+[ERROR] 2017-10-13 23:06:58.293 [main] LoggerListener - Test 'ClickSearchResult' FAILED
+[ERROR] 2017-10-13 23:06:58.293 [main] LoggerListener - Priority of this method is 0
+[INFO ] 2017-10-13 23:06:58.293 [main] BaseTest - rs test case name after method:ClickSearchResult
